@@ -1,7 +1,5 @@
 # CelebA_classification
 
-# CelebA_classification
-
 
 ## Description
 
