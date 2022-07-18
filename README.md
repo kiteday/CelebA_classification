@@ -31,3 +31,9 @@ example dir is :
 Then you can train model in distributed settings
 
 > python train.py --path PATH 
+
+After learning, checkpoints are stored in the 'models' file.
+
+### Test
+
+>python test.py --ckpt CHECKPOINT
