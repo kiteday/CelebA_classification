@@ -11,7 +11,9 @@
 - cuda version: 11.3
 - cudnn version:8302
 
-## Dataset : https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+## Dataset 
+
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
 
 ## Usage
