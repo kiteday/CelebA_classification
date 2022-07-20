@@ -57,3 +57,5 @@ After learning, checkpoints are stored in the 'models' file.
 --ckpt            : trained model(checkpoint) path
 --path            : test image path
 ```
+![test](https://user-images.githubusercontent.com/74218895/179892599-6de0dba4-f653-4ccc-9f63-59f7b7cfbf37.png)
+
