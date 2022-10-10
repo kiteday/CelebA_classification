@@ -3,7 +3,7 @@
 
 ## Description
 
-  This is distinguishes gender. 
+  This is classification gender. 
 
 ## Requirements
 
